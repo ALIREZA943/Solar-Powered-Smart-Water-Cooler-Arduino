@@ -2,7 +2,6 @@
 
 > An eco-friendly Arduino-based smart water cooling system powered by solar energy for portable and sustainable applications.
 
-![Project Banner](images/banner.jpg)
 
 ---
 
